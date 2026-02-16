@@ -1,0 +1,9 @@
+employee_id,first_name,last_name,department,salary,start_date
+1,Alice,Johnson,Engineering,85000,2021-03-15
+2,Bob,Smith,Marketing,65000,2020-07-01
+3,Charlie,Lee,Finance,72000,2019-11-20
+4,Diana,Garcia,Engineering,91000,2022-01-10
+5,Ethan,Brown,HR,60000,2018-05-30
+6,Fiona,Davis,Marketing,68000,2023-04-12
+7,George,Martinez,Finance,75000,2020-09-18
+8,Hannah,Wilson,Engineering,95000,2021-06-25
