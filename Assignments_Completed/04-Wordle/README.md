@@ -72,5 +72,5 @@ The Chamberlain-Duquette formula accumulates relative error for very small polyg
 
 ## Screenshot — completed round
 
-![Completed round](screenshot.png)
+![Completed round](https://github.com/BKoch74/5993-Spatial-Data-and-Mapping/blob/EOY-Assignments/Assignments_Completed/04-Wordle/Completed_Round.png)
 
