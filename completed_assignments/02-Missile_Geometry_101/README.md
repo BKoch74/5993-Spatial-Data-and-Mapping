@@ -52,21 +52,21 @@ Project_01/
 ### Milestone 1 — Plot the World
 Loaded a world borders shapefile and rendered it as an interactive Folium map. The WDO base location (Dallas, TX) was added as a labeled marker. The projection file was inspected to confirm the coordinate reference system before any spatial operations were performed.
 
-![Milestone 1 Screenshot](screenshots/milestone_1.png)
+![Milestone 1 Screenshot](https://github.com/BKoch74/5993-Spatial-Data-and-Mapping/blob/main/Assignments_Completed/Project_01/Project_01_Code/outputs/milestone_1.png)
 
 ---
 
 ### Milestone 2 — Distance & Bearing
 Loaded simulated threat data from JSON and computed the haversine distance from each threat origin to the WDO base. The closest threat was identified and reported. All threat origins were plotted as circle markers — red for the closest threat, blue for all others.
 
-![Milestone 2 Screenshot](screenshots/milestone_2.png)
+![Milestone 2 Screenshot](https://github.com/BKoch74/5993-Spatial-Data-and-Mapping/blob/main/Assignments_Completed/Project_01/Project_01_Code/outputs/milestone_2.png)
 
 ---
 
 ### Milestone 3 — Trajectories
 Converted each threat's motion into a visible trajectory by computing a projected destination point over a fixed 20-minute interval. Intermediate waypoints were generated every 2 minutes and rendered as PolyLines on the map. Green endpoint markers show each threat's projected position.
 
-![Milestone 3 Screenshot](screenshots/milestone_3.png)
+![Milestone 3 Screenshot](https://github.com/BKoch74/5993-Spatial-Data-and-Mapping/blob/main/Assignments_Completed/Project_01/Project_01_Code/outputs/milestone_3.png)
 
 ---
 
